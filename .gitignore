@@ -1,0 +1,16 @@
+# Binaries
+/bin/
+/payments-api
+*.exe
+*.test
+
+# Test and coverage output
+*.out
+coverage.*
+**/testdata/fuzz/
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
